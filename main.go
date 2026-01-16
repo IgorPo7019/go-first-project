@@ -1,3 +1,9 @@
-package main; import "fmt"; 
-func main()
- {fmt.Println("Hello Git }
+package main
+
+import "fmt"
+func main() {
+
+fmt.Println("Hello Git")
+fmt.Println("Привет Git!")
+
+}
